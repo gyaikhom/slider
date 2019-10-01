@@ -5,6 +5,4 @@ A Slider is a graphical user interface that allows a user to select a value from
 
 A slider is also preferred when it would be cumbersome to enter the required value manually. For instance, it makes more intuitive sense to adjust the volume on a multimedia application using a slider than it is by setting the required decibels manually.
 
-In this project, we implement a slider user interface in Javascript. 
-
-For further details, please visit my [homepage](http://yaikhom.com/2013/03/17/implementing-a-slider-user-interface.html).
+In this project, we implement a slider user interface in Javascript.
